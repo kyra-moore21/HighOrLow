@@ -8,7 +8,7 @@ int guess = 0;
 
 while (true)
 {
-    Console.WriteLine("Guess a number");
+    Console.WriteLine("Guess a number between 1 and 100");
     int userInt = int.Parse(Console.ReadLine()); 
     guess++;
     if (userInt > num) 

@@ -12,3 +12,4 @@ C:\Users\kyram\source\repos\HighOrLow\HighOrLow\obj\Debug\net8.0\refint\HighOrLo
 C:\Users\kyram\source\repos\HighOrLow\HighOrLow\obj\Debug\net8.0\HighOrLow.pdb
 C:\Users\kyram\source\repos\HighOrLow\HighOrLow\obj\Debug\net8.0\HighOrLow.genruntimeconfig.cache
 C:\Users\kyram\source\repos\HighOrLow\HighOrLow\obj\Debug\net8.0\ref\HighOrLow.dll
+C:\Users\kyram\source\repos\HighOrLow\HighOrLow\obj\Debug\net8.0\HighOrLow.sourcelink.json
